@@ -17,6 +17,9 @@ The full SQL cleaning script is available in:
 - data validation -> `ecommerce_data_validation.sql`
 - KPIs analysis -> `KPIs analysis.sql`
 
+Visual Dashboard is available in:
+https://lookerstudio.google.com/reporting/7d503508-5f28-4728-9163-90c4da84e002
+
 ## Dataset Description
 
 The analysis uses the following tables from
